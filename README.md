@@ -17,8 +17,8 @@
 ## 🧰 Tech Stack
 
 - **Languages**: Python, SQL, HTML/CSS
-- **Libraries/Frameworks**: scikit-learn, pandas, NumPy, Matplotlib, Seaborn, Streamlit, Flask
-- **Tools**: Git, GitHub, Jupyter, VS Code, Google Colab, Postman
+- **Libraries/Frameworks**: scikit-learn, pandas, NumPy, Matplotlib, Seaborn, Streamlit
+- **Tools**: Git, GitHub, Jupyter, VS Code, Google Colab
 - **Machine Learning**: Regression, Classification, EDA, Model Evaluation
 
 ---
