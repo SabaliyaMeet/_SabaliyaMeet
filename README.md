@@ -38,7 +38,7 @@
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/meet-sabaliya-61ab34207)
+- 💼 [LinkedIn](https://www.linkedin.com/in/meet-sabaliya-61ab34207/)
 - 📧 Email: sabaliyameet7@gmail.com
 - 🌐 Portfolio: Coming soon
 
