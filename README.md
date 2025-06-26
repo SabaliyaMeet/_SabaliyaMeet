@@ -27,7 +27,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔍 [Student Placement Predictor](https://github.com/yourusername/student-placement-predictor) | Predicts if a student gets placed using CGPA & IQ | Python, Logistic Regression, Streamlit |
+| 🔍 [Student Placement Predictor](https://github.com/SabaliyaMeet/Student-Placement-Predictor) | Predicts if a student gets placed using CGPA & IQ | Python, Logistic Regression, Streamlit |
 | 💼 [Salary Predictor](https://github.com/yourusername/salary-predictor-regression) | Predicts salary based on experience | Python, Linear Regression, Gradio |
 | 🏦 [Loan Approval ML App](https://github.com/yourusername/loan-approval-ml) | Determines loan approval based on applicant details | ML, Decision Trees, Streamlit |
 | 💬 [Mental Health Chatbot](https://github.com/yourusername/mental-health-chatbot-nlp) | Simple NLP chatbot for emotional support | NLP, TF-IDF, Logistic Regression |
